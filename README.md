@@ -1,2 +1,2 @@
 # just-me-
-┌──(Ayhuuu@root)-[~/] └─$ cat Ayhuuu.py  class Ayhuuu:  def  social(self):  self.gtb = "https://github.com/Ayhuuu"  self.dsc = "Ayhu..."   self.tlg = "Ayhu..."   ┌──(Ayhuuu@root)-[~/]  └─$
+┌──(Alpwrr@root)-[~/] └─$ cat Alpwrr.py  class Alpwrr:  def  social(self):  self.gtb = "https://github.com/Alpwrr"  self.dsc = "Alpw..."   self.tlg = "Alpw..."   ┌──(Alpwrr@root)-[~/]  └─$
